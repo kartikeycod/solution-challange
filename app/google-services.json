@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387715277338",
+    "project_id": "cropulse-kritrim",
+    "storage_bucket": "cropulse-kritrim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387715277338:android:006ad6964e1c6dd84667a3",
+        "android_client_info": {
+          "package_name": "com.example.cropulse_kritrim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzj5xB1wHRi0TPypWDqtsmi_-4p66qD7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

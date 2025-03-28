@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cropulse_Kritrim</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="farmer">with <font color="#2B9846">Krishi Mitra</font></string>
+    <string name="termsandconditions">By proceeding further, you agree to the
+        <font color="#2B9846">Terms of Use</font> and\n<font color="#2B9846">Privacy Policy.</font></string>
+</resources>
